@@ -1,8 +1,32 @@
 {
   "members": [
-    { "id": 1, "name": "Elson", "title": "Director", "img": "avatar-boy"},
-    { "id": 2, "name": "Siang Bin", "title": "Software Developer", "img": "avatar-boy" },
-    { "id": 3, "name": "Rachel", "title": "Software Developer", "img": "avatar-girl" },
-    { "id": 4, "name": "Rinney", "title": "Software Developer", "img": "avatar-girl" }
+    {
+      "id": 1,
+      "name": "Elson",
+      "title": "Director",
+      "img": "avatar-boy",
+      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
+    },
+    {
+      "id": 2,
+      "name": "Siang Bin",
+      "title": "Software Developer",
+      "img": "avatar-boy",
+      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
+    },
+    {
+      "id": 3,
+      "name": "Rachel",
+      "title": "Software Developer (Front-end)",
+      "img": "avatar-girl",
+      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
+    },
+    {
+      "id": 4,
+      "name": "Rinney",
+      "title": "Software Developer (Front-end)",
+      "img": "avatar-girl",
+      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
+    }
   ]
 }
