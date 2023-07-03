@@ -1,32 +1,117 @@
 {
-  "members": [
-    {
-      "id": 1,
-      "name": "Elson",
-      "title": "Director",
-      "img": "avatar-boy",
-      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
-    },
-    {
-      "id": 2,
-      "name": "Siang Bin",
-      "title": "Software Developer",
-      "img": "avatar-boy",
-      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
-    },
-    {
-      "id": 3,
-      "name": "Rachel",
-      "title": "Software Developer (Front-end)",
-      "img": "avatar-girl",
-      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
-    },
-    {
-      "id": 4,
-      "name": "Rinney",
-      "title": "Software Developer (Front-end)",
-      "img": "avatar-girl",
-      "skills": ["Next.js", "Angular", "React", "Javascript", "Typescript"]
-    }
-  ]
-}
+    "members": [
+      {
+        "id": 1,
+        "name": "Elson",
+        "title": "Director",
+        "img": "avatar-boy",
+        "skills": [
+          {
+            "id": 1,
+            "name": "Next.js"
+          },
+          {
+            "id": 2,
+            "name": "Angular"
+          },
+          {
+            "id": 3,
+            "name": "React"
+          },
+          {
+            "id": 4,
+            "name": "JavaScript"
+          },
+          {
+            "id": 5,
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Siang Bin",
+        "title": "Software Developer",
+        "img": "avatar-boy",
+        "skills": [
+          {
+            "id": 1,
+            "name": "Next.js"
+          },
+          {
+            "id": 2,
+            "name": "Angular"
+          },
+          {
+            "id": 3,
+            "name": "React"
+          },
+          {
+            "id": 4,
+            "name": "JavaScript"
+          },
+          {
+            "id": 5,
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Rachel",
+        "title": "Software Developer (Front-end)",
+        "img": "avatar-girl",
+        "skills": [
+          {
+            "id": 1,
+            "name": "Next.js"
+          },
+          {
+            "id": 2,
+            "name": "Angular"
+          },
+          {
+            "id": 3,
+            "name": "React"
+          },
+          {
+            "id": 4,
+            "name": "JavaScript"
+          },
+          {
+            "id": 5,
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Rinney",
+        "title": "Software Developer (Front-end)",
+        "img": "avatar-girl",
+        "skills": [
+          {
+            "id": 1,
+            "name": "Next.js"
+          },
+          {
+            "id": 2,
+            "name": "Angular"
+          },
+          {
+            "id": 3,
+            "name": "React"
+          },
+          {
+            "id": 4,
+            "name": "JavaScript"
+          },
+          {
+            "id": 5,
+            "name": "TypeScript"
+          }
+        ]
+      }
+    ]
+  }
+  
